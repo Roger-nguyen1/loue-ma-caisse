@@ -26,6 +26,7 @@ builder.Services.AddCors(options =>
             "https://localhost:3000",
             "http://localhost:3001",
             "https://localhost:3001",
+            "https://loue-ma-caisse.vercel.app/",
             "https://loue-ma-voiture-api.rogernguyen.fr",  
             "http://loue-ma-voiture-api.rogernguyen.fr"  
         };
