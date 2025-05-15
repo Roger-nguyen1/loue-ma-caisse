@@ -1,0 +1,6 @@
+@loue_ma_caisse_HostAddress = http://localhost:5273
+
+GET {{loue_ma_caisse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
